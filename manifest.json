@@ -1,11 +1,11 @@
 {
   "files": {
     "config.json": "4c2e448cbb1e39d445f4648bcebe69625c011503f41f56377150e9115e776903",
-    "index.js": "dd55b07f3aa0ba4d8d1b3f2253912cd1cdab8503bc8ebf11193cc992669692da",
+    "index.js": "023279ee967c277a45039d3bd94062edc688f5103f52f396cc5c3b7a9a7c6c68",
     "loot.js": "45d312dd7760437c53f5d34903b0011fd4f74e7b0fdbd22d870d2400336cb451",
     "module.json": "4617510ee30692dec49de1791aeca715c29db198e62c72b2b7362bbb3e5eb7fe",
-    "README.md": "1eab3d11b803953c291d79b3e86bfc9831daeb5f7bd5dffe14320ac61d4fe72d",
-    "settings_migrator.js": "8e8bca343f19733cf71e35ee93347d4010a868980e4155cf55dca1e6f640b9e6",
-    "settings_structure.js": "8f5a697ea450201f73bfbaad35843169625cf6f64464421b3382649696374fa3"
+    "README.md": "6ba9fb9571d03c9bc28d157fe69743e9741f0ec0579b49d04164d27b11ddd94c",
+    "settings_migrator.js": "b56868348bb7f1c43bf934d2eb1b70022f16bdf003ae4a4140d70247881c95dd",
+    "settings_structure.js": "1ae3b91c1e8e939cd2cdf29573a2272f731e4e1cf30d05f9900c3bdb1d74e070"
   }
 }

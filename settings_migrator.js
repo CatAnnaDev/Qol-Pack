@@ -22,7 +22,8 @@ const DefaultSettings = {
     "mpNumber": false,
     "mpNumberMe": false,
     "lockonYouMsg": false,
-    "findItemID": false
+    "findItemID": false,
+    "spam": true
 };
 
 module.exports = function MigrateSettings(from_ver, to_ver, settings) {

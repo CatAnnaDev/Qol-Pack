@@ -110,6 +110,11 @@ module.exports = [
         "type": "bool"
     },
     {
+        "key": "spam",
+        "name": "Spam Remover",
+        "type": "bool"
+    },
+    {
         "key": "retaliate",
         "name": "Auto-Retaliate",
         "type": "bool"

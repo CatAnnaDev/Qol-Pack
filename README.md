@@ -12,6 +12,7 @@ exit  | Exit instantly
 revive | Instante Revive
 Bubble | No More bubbles NPC + PETS
 bamhp | Bamhpbar
+spam | Remove all spam
 ~~ | command without using " qp " 
 broker | Show the broker
 relog | Can be use with n or #number
@@ -36,4 +37,5 @@ Cutscene-Skip  <br>
 Success-Chance <br>
 Hide-Number <br>
 Lockon-You-Msg <br>
-Find-ItemID
+Find-ItemID <br>
+Spam-Remover
