@@ -12,6 +12,11 @@ exit  | Exit instantly
 revive | Instante Revive
 Bubble | No More bubbles NPC + PETS
 bamhp | Bamhpbar
+~~ | command without using " qp " 
+broker | Show the broker
+relog | Can be use with n or #number
+
+
 ---
 Mods List <br>
 Anti-BodyBlock <br>

@@ -75,11 +75,6 @@ module.exports = [
         "type": "bool"
     },
     {
-        "key": "successChance",
-        "name": "Show % rate",
-        "type": "bool"
-    },
-    {
         "key": "Lockon-You-Msg",
         "name": "Lock on You",
         "type": "bool"
