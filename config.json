@@ -1,0 +1,29 @@
+{
+    "version": 1,
+    "data": {
+        "bodyblock": true,
+        "Blocker": true,
+        "afk": true,
+        "loot": true,
+        "lootauto": true,
+        "retaliate": true,
+        "bamhp": true,
+        "exit": true,
+        "revive": true,
+        "party": true,
+        "drama": false,
+        "Bubble": true,
+        "onlyPets": true,
+        "inspect": false,
+        "cutsceneSkip": true,
+        "successChance": true,
+        "damageNumber": false,
+        "damageNumberMe": false,
+        "healNumber": false,
+        "healNumberMe": false,
+        "mpNumber": false,
+        "mpNumberMe": false,
+        "lockonYouMsg": false,
+        "findItemID": false
+    }
+}
